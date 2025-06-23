@@ -25,6 +25,7 @@ Welcome to my GitHub! I’m a computer engineer passionate about crafting innova
 ## 🌐 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/andrés-chaparro)
+- [Instagram](https://www.instagram.com/chappie_tech/)
 - 📧 chappie.dev@yahoo.com
 
 ---
