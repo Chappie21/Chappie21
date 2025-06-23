@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I’m Andrés Chaparro! 👋
 
-<!--
-**Chappie21/Chappie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineer | Full Stack Developer | AI Enthusiast**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a computer engineer passionate about crafting innovative software and tools that push the boundaries of software development. My journey is all about building, learning, and sharing—whether it’s through clean code, creative solutions, or collaborating on exciting freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Python, Java
+- **Frameworks & Libraries:** NestJS, Angular, React, NextJS, Astro, Express
+
+---
+
+## 👨‍💻 About Me
+
+- 🛠️ I thrive on creating software solutions that make a difference.
+- 🤖 Intrigued by AI, I’m always exploring the latest in tech and automation.
+- 🌍 Freelancer at heart, I enjoy collaborating on meaningful projects and learning from the global dev community.
+- 🧠 My motto: “Never stop building, never stop learning!”
+
+---
+
+## 🌐 Let’s Connect
+
+- [LinkedIn](https://www.linkedin.com/in/andrés-chaparro)
+- 📧 chappie.dev@yahoo.com
+
+---
+
+Thanks for stopping by! Feel free to check out my projects, connect, or just say hi—let’s create something awesome together! 🚀
